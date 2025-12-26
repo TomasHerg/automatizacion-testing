@@ -146,8 +146,3 @@ Proyecto funcional que cumple con los requisitos de la materia. Contiene step de
 - Cada proyecto es independiente y puede ejecutarse por separado
 - **Importante:** Todos los tests fueron realizados sobre endpoints de la página del departamento de computación de la Universidad Nacional del Sur con la debida autorización del docente a cargo de la materia Verificación y Validación de Software
 
----
-
-## 👤 Autor
-
-Portfolio de testing automatizado - 2024
